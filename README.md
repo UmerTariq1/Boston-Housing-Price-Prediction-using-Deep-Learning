@@ -12,3 +12,5 @@ Steps:
 
 Result:
   The loss on avg was around 2.5 to 4 on test data. And considering that the average price of the house of whole data is around 22 price units(thousand), error of 2.5 to 4 is not bad. 
+
+Dataset link: https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html
